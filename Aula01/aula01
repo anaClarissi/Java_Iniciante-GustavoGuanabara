@@ -1,0 +1,72 @@
+[Curso de Java #01 – História do Java – Gustavo Guanabara](https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=sTX0UEplF54&utm_source=chatgpt.com)
+
+---
+
+## 📌 Resumo em tópicos da aula “História do Java”
+
+### 1. Introdução e visão geral
+
+* Apresentação do professor Gustavo Guanabara e do curso gratuito no site CursoemVideo.com, com certificado disponível .
+* Explicação da importância de conhecer a origem de uma tecnologia antes de aprendê-la .
+
+### 2. Primeiras gerações de computadores
+
+* Primeiros computadores como o ENIAC não tinham teclado nem linguagem de programação: eram operados com botões, plugs e válvulas .
+* Evolução para linguagens de alto nível, como Pascal, aproximando código humano da máquina .
+
+### 3. Compilação e portabilidade
+
+* Uso de compiladores para transformar código-fonte em executável compreensível pela máquina .
+* Limitação de portabilidade: um executável compilado para um sistema não funcionava em outro .
+
+### 4. A linguagem C e o cross‑platform
+
+* A linguagem C permitiu compilar o mesmo código-fonte para diferentes plataformas, com ajustes mínimos, viabilizando softwares como o Firefox .
+
+### 5. Origem do Java
+
+* Projeto da Sun Microsystems em 1990 para integrar diversos dispositivos, inicialmente usando C++.
+* Criação interna de uma linguagem chamada GreenTalk pelo “Green Team”, depois renomeada para Oak (referência a uma árvore de carvalho na janela do escritório) .
+* Projeto experimental com o dispositivo Star Seven, que permitia interatividade em tempo real em dispositivos diversos .
+* Posteriormente renomeado o projeto para WebRunner e, em seguida, o navegador passou a chamar-se HotJava — impulsionando a linguagem Oak para a web .
+
+### 6. Nome “Java”
+
+* Precauções legais proibiram o uso de “Oak”, forçando a equipe a escolher outro nome.
+* Inspirado pelo café forte (“Java coffee”), preferido pela equipe — nome leve, marcante e enérgico .
+* O símbolo da linguagem foi adotado como uma xícara fumegante de café.
+
+### 7. Marketing e diferenciação
+
+* Sucesso de Java levou a Netscape a renomear linguagem LiveScript para JavaScript, mesmo sem relação com Java, como estratégia de marketing .
+
+### 8. Primeiras aplicações e interatividade externa
+
+* Projetos como Java Ring permitiam autenticação e controle externo via Java.
+* A linguagem Java foi utilizada pela NASA em 2004 para controlar robô enviado a Marte .
+
+### 9. Tornando‑se open source e aquisições
+
+* Em 2006, Java foi lançado como software livre sob licença GPL .
+* Em 2009, a Sun Microsystems foi adquirida pela Oracle por US \$ 7,4 bilhões. James Gosling continuou até 2010, depois se desligou .
+
+### 10. Presença atual do Java
+
+* Java está presente em sistemas bancários, smartcards, Android (aplicações), Blu-ray menus, Kindle, Ginga (TV digital no Brasil), smartwatches e até no sistema de declaração de imposto de renda .
+
+### 11. Mensagem final
+
+* Introdução ao curso enfatiza que os próximos módulos abordarão funcionamento interno do Java, instalação do JDK, primeiros programas e conceitos básicos .
+* Convite para se inscrever no canal, conhecer a plataforma e apoiar mantendo-se engajado nos vídeos .
+
+---
+
+### ✅ Conclusão
+
+Essa primeira aula tem como foco apresentar **a origem, evolução e importância da linguagem Java**, contextualizando sua motivação técnica e cultural. A partir da próxima, o curso avança para funcionamento prático, instalação, sintaxe e primeiros programas.
+
+Se quiser, posso fazer resumos semelhantes das próximas aulas da mesma playlist!
+
+[1]: https://ytscribe.com/v/sTX0UEplF54?utm_source=chatgpt.com "Curso de Java #01 - História do Java - Gustavo Guanabara"
+[2]: https://www.youtube.com/watch?v=cieWrDHGFtQ&utm_source=chatgpt.com "Aula 01 - Instalação e configuração do Java"
+[3]: https://www.cursoemvideo.com/curso/java-basico/?utm_source=chatgpt.com "Java Básico [40 Horas]"
