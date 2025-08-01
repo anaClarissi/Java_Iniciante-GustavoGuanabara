@@ -1,0 +1,51 @@
+
+Respostas – Aula 01 (História do Java)
+
+1. Por que é importante conhecer a história de uma linguagem de programação antes de começar a estudá-la?
+   → Porque entender o contexto da criação, os objetivos e os problemas que a linguagem busca resolver ajuda o aluno a compreender melhor suas funcionalidades, vantagens e aplicações práticas.
+
+
+
+2. Como funcionavam os primeiros computadores, como o ENIAC, em termos de programação?
+   → Eles não possuíam teclado nem linguagem de programação, eram operados manualmente com botões, plugs e válvulas. A programação era feita fisicamente, alterando conexões.
+
+
+
+3. Qual foi a principal limitação dos compiladores no início da era da programação em relação à portabilidade de software?
+   → O código compilado em um sistema não funcionava em outro. Cada compilador gerava um executável específico para o sistema operacional e hardware usados.
+
+
+
+4. Como a linguagem C ajudou a resolver o problema da portabilidade entre sistemas diferentes?
+   → Permitindo que o mesmo código-fonte fosse recompilado em diferentes plataformas com poucas ou nenhuma modificação, facilitando a adaptação de programas a diversos sistemas.
+
+
+
+5. Qual era o objetivo inicial do projeto criado pela Sun Microsystems nos anos 1990, que mais tarde deu origem ao Java?
+   → Criar uma linguagem que permitisse a comunicação entre diferentes dispositivos eletrônicos (como controles, geladeiras, televisões) de maneira padronizada.
+
+
+
+6. Que nomes anteriores o Java teve antes de receber o nome final? Cite pelo menos dois.
+   → GreenTalk (nome interno do projeto) e Oak (primeiro nome público). Posteriormente, o navegador que usava a linguagem foi chamado de HotJava.
+
+
+
+7. Por que o nome “Oak” foi descartado e como surgiu o nome “Java”?
+   → “Oak” já era registrado como marca. O nome “Java” foi escolhido por remeter ao café Java, muito consumido pela equipe. Era um nome curto, sonoro e com energia.
+
+
+
+8. Qual foi o papel da linguagem Java em projetos como o Java Ring e na NASA?
+   → O Java Ring era um dispositivo de autenticação portátil baseado em Java. A NASA usou Java em 2004 para controlar remotamente um robô enviado a Marte.
+
+
+
+9. Qual empresa comprou a Sun Microsystems e passou a ser responsável pelo Java? Em que ano isso aconteceu?
+   → A Oracle comprou a Sun Microsystems em 2009, assumindo o controle do Java.
+
+
+
+10. Cite ao menos três áreas ou dispositivos em que o Java é utilizado atualmente.
+    → Java é usado em sistemas bancários, aplicativos Android, TV digital (como o Ginga no Brasil), leitores Kindle, menus de Blu-ray, smartcards, relógios inteligentes e sistemas de declaração de imposto de renda.
+
