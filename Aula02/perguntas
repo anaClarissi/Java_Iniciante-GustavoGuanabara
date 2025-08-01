@@ -1,0 +1,32 @@
+Perguntas de revisão
+
+1. O que o compilador JavaC gera a partir do código-fonte em Java?
+
+
+2. Qual é o papel da JVM no processo de execução de um programa Java?
+
+
+3. Explique o que significa o modelo WORA e por que isso é importante.
+
+
+4. Cite os principais componentes internos da JVM e suas funções.
+
+
+5. Qual é a diferença entre JRE e JDK?
+
+
+6. Por que não é necessário instalar separadamente o JRE ao instalar o JDK?
+
+
+7. Quais são algumas das IDEs recomendadas para programar em Java?
+
+
+8. Por que o curso utiliza o NetBeans como IDE de escolha?
+
+
+9. Como o Java permite que o mesmo bytecode seja executado em plataformas diferentes?
+
+
+10. Por que o uso do compilador JIT dentro da JVM é vantajoso?
+
+

@@ -1,0 +1,35 @@
+Respostas:
+
+1. O compilador JavaC converte o código-fonte Java em bytecode, não em um executável nativo.
+
+
+2. A JVM interpreta o bytecode e gera instruções executáveis na máquina específica, adaptando o programa à plataforma.
+
+
+3. WORA (“Write Once, Run Anywhere”) significa que você escreve e compila o código apenas uma vez, e ele pode rodar em qualquer plataforma com JVM compatível.
+
+
+4. Componentes da JVM
+   * Loader: carrega o bytecode na memória;
+   * Verifier: verifica a segurança do bytecode;
+   * Interpretador: transforma bytecode em código nativo;
+   * Gerenciador de Memória: aloca e limpa memória;
+   * JIT compiler: compila partes críticas para melhorar desempenho.
+
+   
+5. JRE é o ambiente de execução com a JVM e bibliotecas; JDK é o kit completo para desenvolvimento, incluindo o JRE, JavaC, debugger, APIs e ferramentas de compilação/desenvolvimento.
+
+
+6. Porque o JDK já inclui o JRE, dispensando instalação separada para execução.
+
+
+7. IDEs recomendadas: NetBeans, Eclipse e IntelliJ IDEA.
+
+
+8. O curso utiliza NetBeans para facilitar o ensino, com interface amigável e integração direta com as ferramentas do JDK.
+
+
+9. O bytecode Java é independente de plataforma e pode ser interpretado por qualquer JVM compatível, permitindo execução em vários sistemas operacionais.
+
+
+10. O compilador JIT identifica partes críticas durante a execução e as compila para código nativo, acelerando a performance do programa.

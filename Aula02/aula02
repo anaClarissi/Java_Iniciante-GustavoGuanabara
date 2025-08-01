@@ -1,0 +1,28 @@
+[Curso de Java #02 – Como Funciona o Java – Gustavo Guanabara](https://videohighlight.com/v/v_ZCtgwbS3o?aiFormatted=false&language=pt&mediaType=youtube&summaryType=default&utm_source=chatgpt.com)
+
+
+
+📌 Resumo por tópicos
+
+* Relembra comparação da linguagem C com Java e como cada uma gera código executável específico por plataforma.
+
+
+* O compilador JavaC converte o código-fonte em bytecode, um formato intermediário interpretado pela Java Virtual Machine (JVM).
+
+
+* A JVM interpreta o bytecode e executa nos diversos sistemas operacionais, viabilizando o modelo WORA (“Write Once Run Anywhere”).
+
+
+* A JVM inclui vários componentes: Loader, Verifier, Interpretador, Gerenciador de Memória e **Compilador JIT (Just In Time).
+
+
+* O JRE (Java Runtime Environment) contém a JVM e bibliotecas para executar programas Java; já o JDK (Java Development Kit) traz o JRE 
+mais ferramentas de desenvolvimento como JavaC, debugger e APIs.
+
+
+* IDEs como NetBeans, Eclipse e IntelliJ facilitam o desenvolvimento Java — o curso adotará o NetBeans.
+
+
+* Ao instalar o JDK, o JRE já está incluído, dispensando instalação separada.
+
+
