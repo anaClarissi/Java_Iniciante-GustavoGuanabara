@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2ae16ff-8385-4299-aeab-833b33d21f2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Aula06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteTipos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteTipos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteTipos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteTipos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteTipos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteTipos/src/main/java/org/example/TesteTipos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposPrimitivos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposPrimitivos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposPrimitivos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposPrimitivos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposPrimitivos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposPrimitivos/src/main/java/org/example/TiposPrimitivos.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anaClarissi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anaClarissi/Java_Iniciante-GustavoGuanabara.git&quot;,
+    &quot;accountId&quot;: &quot;a7611cc1-abda-4cf3-84c9-5c17d9c283ab&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30mf1mZaAusVbUn5CGJn7ba3wxd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CalculadoraApp.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/MeusProjetos/JavaFXBasico",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MeusProjetos\Java_Iniciante-GustavoGuanabara\Aula06\SomandoNumeros\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2ae16ff-8385-4299-aeab-833b33d21f2e" name="Changes" comment="" />
+      <created>1754237455658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754237455658</updated>
+    </task>
+    <servers />
+  </component>
+</project>
