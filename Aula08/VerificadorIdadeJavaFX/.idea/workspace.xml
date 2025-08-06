@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be451f66-8eab-4098-8cf6-ab9509917f80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Aula07/SuperCalculadora/src/main/java/org/example/supercalculadora/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula07/SuperCalculadora/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/src/main/java/org/example/ComparacaoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/src/main/java/org/example/OperadoresLogicos.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anaClarissi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anaClarissi/Java_Iniciante-GustavoGuanabara.git",
+    "accountId": "a7611cc1-abda-4cf3-84c9-5c17d9c283ab"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="30tCdjH26UrNrmi2F0I1YSDf7Zb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.VerificadorIdade.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Pichau/Downloads/javafx-sdk-21.0.8/lib/javafx.web.jar",
+    "onboarding.tips.debug.path": "E:/MeusProjetos/Java_Iniciante-GustavoGuanabara/Aula08/VerificadorIdadeJavaFX/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be451f66-8eab-4098-8cf6-ab9509917f80" name="Changes" comment="" />
+      <created>1754437572428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754437572428</updated>
+    </task>
+    <servers />
+  </component>
+</project>

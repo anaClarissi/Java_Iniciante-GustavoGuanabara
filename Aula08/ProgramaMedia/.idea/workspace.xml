@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e84f5a3d-10b8-48d9-84c4-531098afccff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Aula07/SuperCalculadora/src/main/java/org/example/supercalculadora/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula07/SuperCalculadora/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparacaoString/src/main/java/org/example/ComparacaoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoDoGenio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoDoGenio/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoDoGenio/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoDoGenio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoDoGenio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoDoGenio/src/main/java/org/exercicios/jogodogenio/JogoDoGenio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoDoGenio/src/main/java/org/exercicios/jogodogenio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoDoGenio/src/main/resources/org/exercicios/jogodogenio/TelaGenio.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperadoresLogicos/src/main/java/org/example/OperadoresLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VerificadorIdadesJavaFX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VerificadorIdadesJavaFX/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VerificadorIdadesJavaFX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VerificadorIdadesJavaFX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VerificadorIdadesJavaFX/src/main/java/org/exercicios/verificadoridadesjavafx/FuncoesDoVerificador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VerificadorIdadesJavaFX/src/main/java/org/exercicios/verificadoridadesjavafx/VerificadorIdades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VerificadorIdadesJavaFX/src/main/resources/org/exercicios/verificadoridadesjavafx/TelaVerificador.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anaClarissi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anaClarissi/Java_Iniciante-GustavoGuanabara.git",
+    "accountId": "a7611cc1-abda-4cf3-84c9-5c17d9c283ab"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="30tM4Hzy3YlVDfzLrTkugv7XwLA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ProgramaMedia.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "E:/MeusProjetos/Java_Iniciante-GustavoGuanabara/Aula08/ProgramaMedia/src/main/java/org/exercicios/Main.java",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84f5a3d-10b8-48d9-84c4-531098afccff" name="Changes" comment="" />
+      <created>1754442222569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754442222569</updated>
+    </task>
+    <servers />
+  </component>
+</project>
